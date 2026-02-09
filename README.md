@@ -4,6 +4,7 @@ I am a Java Developer with a strong foundation in Core Java, Spring Boot, SQL, a
 
 ## Socials:
 LinkedIn: https://www.linkedin.com/in/mdanasec/
+
 youtube:  https://www.youtube.com/@officialcodingpills
 
 # Tech Stack:
