@@ -1,5 +1,5 @@
 #  About Me:
-I am a Java Developer with a strong foundation in Core Java, Spring Boot, SQL, and full-stack development. <br>I have experience building RESTful APIs, working on real-time systems such as multi-camera smart attendance platforms, and optimizing backend performance. <br>I enjoy building scalable and clean backend solutions.
+I am a Java Developer with a strong foundation in Core Java, Spring Boot, SQL, and full-stack development. <br>I have experience building RESTful APIs, working on real-time systems such as multi-camera smart attendance platforms, and optimizing backend performance. I enjoy building scalable and clean backend solutions.
 
 
 ## Socials:
