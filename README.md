@@ -1,5 +1,5 @@
 #  About Me:
-I am a Java Developer with a strong foundation in Core Java, Spring Boot, SQL, and full-stack development. <br>I have experience building RESTful APIs, working on real-time systems such as multi-camera smart attendance platforms, and optimizing backend performance. I enjoy building scalable and clean backend solutions.
+Java Developer with 1 year of intensive training at J-Spider Bengaluru in Core Java, Spring Boot, Hibernate, and React JS, complemented by hands-on internship experience building real-world systems including a multi-camera smart attendance platform and a full-stack banking application with secure transaction handling. Passionate about writing clean backend code and building scalable REST APIs.
 
 
 ## Socials:
